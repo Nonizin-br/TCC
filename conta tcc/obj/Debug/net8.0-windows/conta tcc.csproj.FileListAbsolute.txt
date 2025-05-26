@@ -1,0 +1,20 @@
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\bin\Debug\net8.0-windows\conta tcc.exe
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\bin\Debug\net8.0-windows\conta tcc.deps.json
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\bin\Debug\net8.0-windows\conta tcc.runtimeconfig.json
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\bin\Debug\net8.0-windows\conta tcc.dll
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\bin\Debug\net8.0-windows\conta tcc.pdb
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Form1.resources
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Form2.resources
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Form3.resources
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Form4.resources
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Properties.Resources.resources
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.csproj.GenerateResource.cache
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.AssemblyInfoInputs.cache
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.AssemblyInfo.cs
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.csproj.CoreCompileInputs.cache
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.dll
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\refint\conta tcc.dll
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.pdb
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.genruntimeconfig.cache
+C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\ref\conta tcc.dll
