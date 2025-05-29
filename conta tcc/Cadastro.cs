@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace conta_tcc
 {
-    public partial class Form2 : Form
+    public partial class Cadastro : Form
     {
-        public Form2()
+        public Cadastro()
         {
             InitializeComponent();
         }

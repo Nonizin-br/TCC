@@ -18,3 +18,25 @@ C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8
 C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.pdb
 C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.genruntimeconfig.cache
 C:\Users\paiva_pedro.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\ref\conta tcc.dll
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\bin\Debug\net8.0-windows\conta tcc.exe
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\bin\Debug\net8.0-windows\conta tcc.deps.json
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\bin\Debug\net8.0-windows\conta tcc.runtimeconfig.json
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\bin\Debug\net8.0-windows\conta tcc.dll
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\bin\Debug\net8.0-windows\conta tcc.pdb
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta_tcc.cadastro.resources
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta_tcc.EditAccount.resources
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Home.resources
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Login.resources
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Properties.Resources.resources
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Welcome.resources
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.csproj.GenerateResource.cache
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.AssemblyInfoInputs.cache
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.AssemblyInfo.cs
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.csproj.CoreCompileInputs.cache
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.sourcelink.json
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.dll
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\refint\conta tcc.dll
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.pdb
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.genruntimeconfig.cache
+C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\ref\conta tcc.dll

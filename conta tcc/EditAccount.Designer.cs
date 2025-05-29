@@ -1,6 +1,6 @@
 ﻿namespace conta_tcc
 {
-    partial class Form4
+    partial class EditAccount
     {
         /// <summary>
         /// Required designer variable.

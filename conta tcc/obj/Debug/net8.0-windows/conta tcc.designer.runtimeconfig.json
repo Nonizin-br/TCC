@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\paiva_pedro.ADVENTISTAS\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\paiva_pedro.ADVENTISTAS\\.nuget\\packages",
+      "C:\\Users\\matheus_thierry.ADVENTISTAS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\matheus_thierry.ADVENTISTAS\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

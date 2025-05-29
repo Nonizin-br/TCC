@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\paiva_pedro.ADVENTISTAS\\source\\repos\\conta tcc\\",
+  "WorkspaceRootPath": "C:\\Users\\matheus_thierry.ADVENTISTAS\\source\\repos\\conta tcc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|c:\\users\\paiva_pedro.adventistas\\source\\repos\\conta tcc\\conta tcc\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|solutionrelative:conta tcc\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|c:\\users\\matheus_thierry.adventistas\\source\\repos\\conta tcc\\conta tcc\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|solutionrelative:conta tcc\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|c:\\users\\paiva_pedro.adventistas\\source\\repos\\conta tcc\\conta tcc\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|solutionrelative:conta tcc\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|c:\\users\\matheus_thierry.adventistas\\source\\repos\\conta tcc\\conta tcc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|solutionrelative:conta tcc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|c:\\users\\paiva_pedro.adventistas\\source\\repos\\conta tcc\\conta tcc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|solutionrelative:conta tcc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|c:\\users\\paiva_pedro.adventistas\\source\\repos\\conta tcc\\conta tcc\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|solutionrelative:conta tcc\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|c:\\users\\paiva_pedro.adventistas\\source\\repos\\conta tcc\\conta tcc\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|solutionrelative:conta tcc\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|c:\\users\\matheus_thierry.adventistas\\source\\repos\\conta tcc\\conta tcc\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9A79467-3FE1-46AF-B285-A4A2C9C2100D}|conta tcc\\conta tcc.csproj|solutionrelative:conta tcc\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,67 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form4.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\paiva_pedro.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Form4.cs",
-              "RelativeDocumentMoniker": "conta tcc\\Form4.cs",
-              "ToolTip": "C:\\Users\\paiva_pedro.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Form4.cs [Projeto]",
-              "RelativeToolTip": "conta tcc\\Form4.cs [Projeto]",
+              "DocumentIndex": 2,
+              "Title": "Cadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\matheus_thierry.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Cadastro.cs",
+              "RelativeDocumentMoniker": "conta tcc\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\matheus_thierry.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Cadastro.cs [Projeto]",
+              "RelativeToolTip": "conta tcc\\Cadastro.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T17:38:20.848Z",
+              "WhenOpened": "2025-05-29T14:37:39.576Z",
               "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_thierry.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Program.cs",
+              "RelativeDocumentMoniker": "conta tcc\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus_thierry.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Program.cs",
+              "RelativeToolTip": "conta tcc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:34:40.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form5.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\paiva_pedro.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Form5.cs",
-              "RelativeDocumentMoniker": "conta tcc\\Form5.cs",
-              "ToolTip": "C:\\Users\\paiva_pedro.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Form5.cs [Projeto]",
-              "RelativeToolTip": "conta tcc\\Form5.cs [Projeto]",
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "C:\\Users\\matheus_thierry.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Welcome.cs",
+              "RelativeDocumentMoniker": "conta tcc\\Welcome.cs",
+              "ToolTip": "C:\\Users\\matheus_thierry.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Welcome.cs",
+              "RelativeToolTip": "conta tcc\\Welcome.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T18:55:59.334Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form3.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\paiva_pedro.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Form3.cs",
-              "RelativeDocumentMoniker": "conta tcc\\Form3.cs",
-              "ToolTip": "C:\\Users\\paiva_pedro.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Form3.cs [Projeto]",
-              "RelativeToolTip": "conta tcc\\Form3.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T17:15:28.563Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form2.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\paiva_pedro.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Form2.cs",
-              "RelativeDocumentMoniker": "conta tcc\\Form2.cs",
-              "ToolTip": "C:\\Users\\paiva_pedro.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Form2.cs [Projeto]",
-              "RelativeToolTip": "conta tcc\\Form2.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T17:01:00.606Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\paiva_pedro.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Form1.cs",
-              "RelativeDocumentMoniker": "conta tcc\\Form1.cs",
-              "ToolTip": "C:\\Users\\paiva_pedro.ADVENTISTAS\\source\\repos\\conta tcc\\conta tcc\\Form1.cs [Projeto]",
-              "RelativeToolTip": "conta tcc\\Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:57:31.721Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-05-29T14:33:29.288Z",
+              "EditorCaption": ""
             }
           ]
         }

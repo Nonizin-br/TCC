@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace conta_tcc
 {
-    public partial class Form4 : Form
+    public partial class EditAccount : Form
     {
-        public Form4()
+        public EditAccount()
         {
             InitializeComponent();
         }

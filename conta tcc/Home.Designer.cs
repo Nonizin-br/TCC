@@ -1,7 +1,7 @@
 ﻿namespace conta_tcc
 {
-    partial class Form5
-    {
+    partial class Home
+    {   
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -77,6 +77,7 @@
             button2.TabIndex = 19;
             button2.Text = "Apagar";
             button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // panel1
             // 
@@ -90,14 +91,15 @@
             panel1.Size = new Size(470, 369);
             panel1.TabIndex = 20;
             // 
-            // Form5
+            // Home
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(panel1);
-            Name = "Form5";
-            Text = "Form5";
+            Name = "Home";
+            Text = "Home";
+            Load += Home_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
