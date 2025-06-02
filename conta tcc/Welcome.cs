@@ -1,16 +1,21 @@
+using System.Net.Http;
+using System.Runtime.CompilerServices;
+
 namespace conta_tcc
 {
     public partial class Welcome : Form
     {
-        public Welcome()
+        HttpClient _client;
+        public Welcome(HttpClient client)
         {
+            _client = client;
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Cadastro cadastro = new Cadastro();
+            Cadastro cadastro = new Cadastro(_client);
             cadastro.ShowDialog();
             cadastro = null;
             this.Show();
@@ -19,7 +24,7 @@ namespace conta_tcc
         private void button2_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Cadastro login = new Cadastro();
+            Login login = new Login();
             login.ShowDialog();
             login = null;
             this.Show();

@@ -7,44 +7,42 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Net.Http;
+using Newtonsoft.Json;
 
 namespace conta_tcc
 {
     public partial class Cadastro : Form
     {
-        public Cadastro()
+        HttpClient _client;
+        public Cadastro(HttpClient client)
         {
             InitializeComponent();
+            _client = client;
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private async void button1_Click(object sender, EventArgs e)
         {
+            if (textBox3.Text == textBox4.Text)
+            {
 
-        }
+                Dictionary<String, String> data = new Dictionary<String, String>()
+                {
+                    {"usuario", textBox1.Text},
+                    {"senha", textBox3.Text},
+                };
 
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
+                FormUrlEncodedContent form = new FormUrlEncodedContent(data);
 
-        }
+                var response = await _client.PostAsync("http://localhost/tcc/cadastro.php", form);
 
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
+                var responseString = await response.Content.ReadAsStringAsync();
+                var json = JsonConvert.DeserializeObject<jsonData>(responseString);
+                if (json.sucesso)
+                {
+                    Program.loadHome();
+                }
+            }
         }
     }
 }

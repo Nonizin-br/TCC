@@ -40,3 +40,32 @@ C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\
 C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.pdb
 C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\conta tcc.genruntimeconfig.cache
 C:\Users\matheus_thierry.ADVENTISTAS\source\repos\conta tcc\conta tcc\obj\Debug\net8.0-windows\ref\conta tcc.dll
+C:\Users\Aluno\source\repos\TCC\conta tcc\bin\Debug\net8.0-windows\conta tcc.exe
+C:\Users\Aluno\source\repos\TCC\conta tcc\bin\Debug\net8.0-windows\conta tcc.deps.json
+C:\Users\Aluno\source\repos\TCC\conta tcc\bin\Debug\net8.0-windows\conta tcc.runtimeconfig.json
+C:\Users\Aluno\source\repos\TCC\conta tcc\bin\Debug\net8.0-windows\conta tcc.dll
+C:\Users\Aluno\source\repos\TCC\conta tcc\bin\Debug\net8.0-windows\conta tcc.pdb
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Cadastro.resources
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta_tcc.EditAccount.resources
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Home.resources
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Login.resources
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Properties.Resources.resources
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta_tcc.Welcome.resources
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta tcc.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta tcc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta tcc.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta tcc.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta tcc.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta tcc.sourcelink.json
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta tcc.dll
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\refint\conta tcc.dll
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta tcc.pdb
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta tcc.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\ref\conta tcc.dll
+C:\Users\Aluno\source\repos\TCC\conta tcc\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Aluno\source\repos\TCC\conta tcc\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno\source\repos\TCC\conta tcc\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Aluno\source\repos\TCC\conta tcc\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Aluno\source\repos\TCC\conta tcc\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta tcc.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\TCC\conta tcc\obj\Debug\net8.0-windows\conta tcc.csproj.Up2Date
